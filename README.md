@@ -5,7 +5,7 @@ Understand failure patterns with anisotropic rock strengths and determine minimu
 1. Jupyter Notebook- .ipynb file of the code
 2. Python file- .py file of the code
 
-##Scope-
+## Scope-
 The python file is further used to create and executable application which is user friendly.
 The application is used significantly in India's leading E&P company to predict optimum mud weight given the dimensions of the borehole. It helps solve various catastrophic events related to imbalanced pore presssure such as blowouts etc.  
 
