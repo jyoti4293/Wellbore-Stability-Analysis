@@ -10,4 +10,4 @@ The python file is further used to create and executable application which is us
 The application is used by India's leading E&P company to predict optimum mud weight given the dimensions of the borehole. It helps solve various catastrophic events related to imbalanced pore presssure such as blowouts etc.  
 
 ### Reference-
-The repository contains the code for the practical implementation of the following paper- [A_wellbore_stability_model_for_formations_with_anisotropic_rock_strengths](https://www.researchgate.net/publication/271414193_A_wellbore_stability_model_for_formations_with_anisotropic_rock_strengths)
+The following paper have been implemented in this project- [A_wellbore_stability_model_for_formations_with_anisotropic_rock_strengths](https://www.researchgate.net/publication/271414193_A_wellbore_stability_model_for_formations_with_anisotropic_rock_strengths)
