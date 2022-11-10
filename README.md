@@ -1,5 +1,5 @@
 # Wellbore-Stability-Analysis
-Understand failure patterns with anisotropic rock strengths and determine minimum mud weight required to maintain stability
+To understand failure patterns with anisotropic rock strengths and determine minimum mud weight required to maintain wellbore stability
 
 ## Contents-
 1. Jupyter Notebook- .ipynb file of the code
